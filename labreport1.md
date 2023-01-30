@@ -13,7 +13,7 @@ After the installation, open VScode and it should appear the screen like this↓
 first of all, before you write codes on your terminal, you have to reset your ucsd password in order to connect to the ucsd server. You can register and change your password at https://sdacs.ucsd.edu/~icc/index.php If you are in trouble check the following tutorial site: [Tutorial for changing the password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit). 
 
 next, open terminal in your VScode
-then next, type the command below where zz replaced by the letters in your own account
+then next, type the command below
 
 `$ ssh cs15lwi23avj@ieng6.ucsd.edu`
 
