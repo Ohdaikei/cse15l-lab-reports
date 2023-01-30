@@ -7,9 +7,9 @@ In the lab of week 2, we built and ran a NumberServer by using a passed out URL 
 
 
 
-<!-- In the first screenshot, I entered "add-message?s=Hello" in the URL. As "add-message" is written in the URL, the code will split the path by "=". Then the 
+In the first screenshot, I entered "add-message?s=Hello" in the URL. As "add-message" is written in the URL, the code will split the path by "=". Then the 
 `parameters[0]` 
-is "s" in this case, a String will be output. The String is initialized to 
+<!-- is "s" in this case, a String will be output. The String is initialized to 
 `""` 
 at first so the 
 `String message` 
