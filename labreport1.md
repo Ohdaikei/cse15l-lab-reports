@@ -38,7 +38,17 @@ so in this case, you would get "Hello! Welcome to CSE 15L" (See the bottom line 
 there are other commands you can try
 
 * cd ~
-* ls -lat
+
+cd commands will allow you to move the current directory
+
+* ls /home/linux/ieng6/cs15lwi23/cs15lwi23avj
+
+<img width="533" alt="スクリーンショット 2023-01-30 15 22 04" src="https://user-images.githubusercontent.com/122579654/215619195-8cf7b3b6-1e29-44fd-98a4-591f49ca4a62.png">
+
+This command will allow you to view the files that cs15lwi23avj has. In the screenshot, three files has listed.
+
 * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+
+This command will copy the file.
 
 
