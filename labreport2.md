@@ -2,7 +2,7 @@
 
 ## Part1. Creating a simple web server
 
-In the lab fo week 2, we built and ran a NumberServer by using a passed out URL Handler Interface and java server files. By utilizing the process we performed in the second week of the lab, I made a new server called StringServer that records the String data I entered in the URL. The codes is attatched first and then the examples I used is attatched next.
+In the lab of week 2, we built and ran a NumberServer by using a passed out URL Handler Interface and java server files. By utilizing the process we performed in the second week of the lab, I made a new server called StringServer that records the String data I entered in the URL. The codes is attatched first and then the examples I used is attatched next.
 
 
 
