@@ -9,7 +9,7 @@ First, as used in the skill-demonstration, let's find the string "Lucayans" in t
 ```
 grep Lucayans written_2
 ```
-The out put will be 
+The output will be 
 ```
 grep: written_2: Is a directory
 ```
