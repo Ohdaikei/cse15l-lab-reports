@@ -12,6 +12,7 @@ As we've done generating SSH Keys for ieng6 account, we are no longer need to en
 ### Cloning the fork from the repository
 
 Before setting the timer, do not forget to go to your forked lab7 github repository and copy the ssh url. And then enter `git clone <cmd-C><enter>`
+
 <img width="704" alt="スクリーンショット 2023-02-27 13 29 52" src="https://user-images.githubusercontent.com/122579654/221694852-de31a958-5fd9-46fa-beee-dabfd2c0797d.png">
 
 
