@@ -7,6 +7,7 @@ Since this is my first quater to use zsh commands in terminal, I found it was ve
 ### banner command
 
 <img width="359" alt="スクリーンショット 2023-03-13 20 26 48" src="https://user-images.githubusercontent.com/122579654/224885641-40341331-f4c6-43f2-9c69-8dce95bed6e3.png">
+
 This command will show the message you entered with a lots of "#"s! 
 
 ### playing tetris!
