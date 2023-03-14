@@ -13,7 +13,9 @@ This command will show the message you entered with a lots of "#"s!
 <img width="363" alt="スクリーンショット 2023-03-13 20 33 00" src="https://user-images.githubusercontent.com/122579654/224886378-3c00db95-42ea-451e-9dad-75d3ce906cc0.png">
 
 By entering the code above, you can download tetris and play it! The command line which says "bindkey" is making a new shortcut(in this case if you press control + T, then the tetris starts).
+
 <img width="412" alt="スクリーンショット 2023-03-13 20 33 38" src="https://user-images.githubusercontent.com/122579654/224886441-85f2a513-bb0b-458f-b666-282a6d461a0c.png">
+
 The tetris screen looks like this↑
 
 ### let the locomotive run!
